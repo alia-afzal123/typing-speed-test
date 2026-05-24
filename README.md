@@ -2,11 +2,7 @@
 
 A modern, interactive typing speed test application built with **React.js** that helps you measure and improve your typing skills.
 
-[![React](https://img.shields.io/badge/React-19-blue)](https://reactjs.org/)
-[![Vite](https://img.shields.io/badge/Vite-5-purple)](https://vitejs.dev/)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
----
 
 ## ✨ Features
 
@@ -21,11 +17,6 @@ A modern, interactive typing speed test application built with **React.js** that
 
 ---
 
-## 🚀 Live Demo
-
-🔗 [View Live Demo](https://your-vercel-link.vercel.app)
-
----
 
 ## 🛠️ Tech Stack
 
@@ -40,9 +31,7 @@ A modern, interactive typing speed test application built with **React.js** that
 
 ## 📸 Screenshots
 
-| Settings Screen | Test Screen | Results Screen |
-|----------------|-------------|----------------|
-| *(Add screenshot here)* | *(Add screenshot here)* | *(Add screenshot here)* |
+<img width="1277" height="762" alt="image" src="https://github.com/user-attachments/assets/1051f526-ece5-4518-84e4-04022b6394b4" />
 
 ---
 
